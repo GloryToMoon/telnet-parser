@@ -1,4 +1,4 @@
-import sys
+●●●●●●●●●import sys
 import os
 
 def start_shell(input):
@@ -65,4 +65,4 @@ if __name__ == '__main__':
 		sort()
 		result()
 	else:
-		print ('Usage: python3 telnet.py wireshark-packets.txt')
+		print ('Usage: python3 ' + sys.argv[0] ' wireshark-packets.txt')
