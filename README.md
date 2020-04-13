@@ -1,5 +1,5 @@
 # Парсер данных telnet из логов wireshark
-(1) Включаем ARP-spoofing  
+(1) Включаем ARP spoofing  
 ![alt text](preview1.jpg)  
 (2) Подключаемся с одной виртуальной машины на другую через telnet  
 ![alt text](preview2.jpg)  
