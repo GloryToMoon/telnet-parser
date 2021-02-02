@@ -65,4 +65,4 @@ if __name__ == '__main__':
 		sort()
 		result()
 	else:
-		print ('Usage: python3 ' + sys.argv[0] ' wireshark-packets.txt')
+		print ('Usage: python3 ' + sys.argv[0] ' + wireshark-packets.txt')
