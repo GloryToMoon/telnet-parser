@@ -1,11 +1,11 @@
 import sys
 
-def help():
+def help_msg():
 	print ('Usage: python3 '+sys.argv[0]+' wireshark-packets.txt')
 	sys.exit(0)
 
-def main(input):
-	file=open(input,"r")
+def main(filename):
+	file=open(filename,"r")
 	stream=file.read().split("\n\n")
 	file.close()
 	out=""
@@ -20,6 +20,6 @@ def main(input):
 
 if __name__=="__main__":
 	if len(sys.argv)<2:
-		help()
+		help_msg1()
 	else:
 		main(sys.argv[1])
