@@ -20,6 +20,6 @@ def main(filename):
 
 if __name__=="__main__":
 	if len(sys.argv)<2:
-		help_msg1()
+		help_msg()
 	else:
 		main(sys.argv[1])
