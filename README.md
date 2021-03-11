@@ -1,5 +1,4 @@
-Parser telnet data from wireshark logs
-======================================
+## Parser telnet data from wireshark logs
 (1) Start ARP spoofing  
 ![alt text](preview1.jpg)  
 (2) Connect to VM from another VM across telnet  
@@ -9,8 +8,7 @@ Parser telnet data from wireshark logs
 (4) Script works  
 ![alt text](preview4.jpg)  
   
-Парсер данных telnet из логов wireshark
-=======================================
+## Парсер данных telnet из логов wireshark
 (1) Включаем ARP spoofing  
 ![alt text](preview1.jpg)  
 (2) Подключаемся с одной виртуальной машины на другую через telnet  
