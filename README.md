@@ -7,8 +7,7 @@
 ![alt text](preview3.jpg)  
 (4) Script works  
 ![alt text](preview4.jpg)
-
-
+  
 # Парсер данных telnet из логов wireshark
 (1) Включаем ARP spoofing  
 ![alt text](preview1.jpg)  
