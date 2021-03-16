@@ -1,3 +1,6 @@
+## This is old version of script.
+## It's work absolutely like a
+## new version.
 import sys
 import os
 
